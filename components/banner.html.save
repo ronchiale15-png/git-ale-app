@@ -2,7 +2,7 @@
 <html lang="it">
 <head>
     <meta charset="UTF-8">
-    <title>Offerta speciale!</title>
+    <title>Offerta speciale</title>
     <style>
         /* Stile base del banner (nascosto di default) */
         .banner {
