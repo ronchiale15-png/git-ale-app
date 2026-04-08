@@ -2,3 +2,4 @@
 # Version 0.1
 # Git A
 ### Esercizio 10: detached HEAD
+### Esercizio 17 aspirapolvere
