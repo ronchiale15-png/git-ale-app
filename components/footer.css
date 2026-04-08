@@ -1,0 +1,24 @@
+footer {
+    background-color: #222;   
+    color: #ffffff;            
+    padding: 40px 20px;        
+    text-align: center;        
+    font-family: sans-serif;  
+    line-height: 1.6;          
+}
+
+0footer a {
+    color: #00adb5;            
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+footer a:hover {
+    text-decoration: underline;
+    color: #eeeeee;
+}
+.card {
+    border-radius: 10px;        /* Bordo arrotondato */
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Ombra */
+    padding: 20px;              /* Padding */
+}
